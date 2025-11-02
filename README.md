@@ -65,7 +65,7 @@ Enter your choice: 1
 ---
 
 ## 🧑‍💻 Author
-**Nivin M A**  
+**Nivindharan  A**  
 Undergraduate Student, Department of Computer Science  
 
 ---
